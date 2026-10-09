@@ -1,0 +1,6 @@
+{
+  "name": "EventHub – College Event Registration",
+  "description": "A modern, responsive college event registration platform designed for DevOps CI/CD projects with event highlights, smooth registration, and deployment version tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
